@@ -1,0 +1,3 @@
+﻿  CMS_main.cpp
+D:\Projects\C++\Contacts Management System\Contacts Management System\CMS_main.cpp(192): warning C4715: “searchPerson”: 不是所有的控件路径都返回值
+  Contacts Management System.vcxproj -> D:\Projects\C++\Contacts Management System\Contacts Management System\Debug\Contacts Management System.exe

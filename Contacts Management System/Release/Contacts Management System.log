@@ -1,0 +1,7 @@
+﻿  CMS_main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\Projects\C++\Contacts Management System\Contacts Management System\CMS_main.cpp(192): warning C4715: “searchPerson”: 不是所有的控件路径都返回值
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Contacts Management System.vcxproj -> D:\Projects\C++\Contacts Management System\Contacts Management System\Release\Contacts Management System.exe
